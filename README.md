@@ -10,7 +10,7 @@
 | 1       | [Basic-Python-Revision-Notes](https://github.com/v10ndev/Basic-Python-Revision-Notes)                         |
 | 2       | [Intro-to-Numpy-Pandas-Matplotlib](https://github.com/v10ndev/Intro-to-Numpy-Pandas-Matplotlib)               |
 | 3       | [Hands-on-Machine-Learning-with-Python](https://github.com/v10ndev/Hands-on-Machine-Learning-with-Python)     |
-| 4       | [TensorFlow-Examples](https://github.com/v10ndev/TensorFlow-ExamplesTensorFlow-Examples)                      |
+| 4       | [TensorFlow-Examples](https://github.com/v10ndev/TensorFlow-Examples)                                         |
 | 5       | [Python-Data-Science-Tutorial](https://github.com/v10ndev/Python-Data-Science-Tutorial)                       |
 
 ## Additional resources
